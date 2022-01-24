@@ -1,0 +1,5 @@
+claim_id_number,claim_receipt_date,claim_description,claimant_birth_date,law_suit_indicator,claimant_first_name,claimant_last_name,policy_number,claimant_occupation,loss_date,claim_amount,claim_paid_amount,claim_paid_date
+C123450000,2020-12-05,Automobile accident,1975-08-01,f,Joe,Smith,P987654321,Physician,2020-12-04,5000.00,,
+C123441000,2019-08-05,Automobile accident,1975-08-01,f,Joe,Smith,P987654321,Physician,2019-08-02,7600.00,7100.00,2019-09-05
+C123440000,2020-10-15,Robbery,1986-03-20,f,Mary,Roberts,P987654111,Not provided,2020-10-01,25000.00,20000.00,2020-11-05
+C345478900,2020-07-13,Property,1990-05-27,f,Aditya,Reddy,P987654222,Business Owner,2020-07-12,10000.00,8000.00,2020-08-12

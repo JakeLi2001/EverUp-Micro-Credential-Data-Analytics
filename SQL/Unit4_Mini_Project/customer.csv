@@ -1,0 +1,4 @@
+customer_id_number,customer_first_name,customer_last_name,customer_type,business_name,address_street_name_line_one,address_street_name_line_two,address_city,address_state,address_postal_code,address_type,customer_birth_date,risk_score
+777543325,Mary,Roberts,Individual,"",123 Main Street,"",Chicago,Illinois,60007,Residential,1986-03-20,75
+777543800,Joe,Smith,Individual,"",123 Park Avenue,"",New York,New York,10017,Residential,1963-02-27,70
+776983401,Aditya,Reddy,Business,ABC Systems,222 Hyde Street,Floor 2,San Francisco,California,94123,Business,,50
